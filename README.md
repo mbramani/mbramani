@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbramani
 - 👀 I’m interested in Web Ddevelopment
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: ramanimohit01@gmail.com
 
 
